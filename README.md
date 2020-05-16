@@ -36,13 +36,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+- I would tell them that Semantic HTML is used to give meaning to the information that is contained in webpages and web applications.
+
 2. What are the 4 areas of the box model?
+
+- Content, padding, border, margin    
 
 3. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+- The cross axis
+
 4. Explain why git is valuable to a team of developers.
 
+- It allows for proper version control and new branches can be created and then merged into a final product. 
+
 5. Define mobile-first design in your own words.
+
+- Mobile-first design means that sites are designed with the main purpose of functioning perfectly first and foremost on mobile devices.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
@@ -50,10 +60,10 @@ You are expected to be able to answer all these questions. Your responses contri
 
 ### Task 1: Project Set Up
 
-- [ ] Create a forked copy of this project
-- [ ] Add your team lead as collaborator on Github
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!)
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [X] Create a forked copy of this project
+- [X] Add your team lead as collaborator on Github
+- [X] Clone your OWN version of the repository (Not Lambda's by mistake!)
+- [X] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly
 - [ ] Push commits: git push origin `<firstName-lastName>`
 
