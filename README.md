@@ -64,8 +64,8 @@ You are expected to be able to answer all these questions. Your responses contri
 - [X] Add your team lead as collaborator on Github
 - [X] Clone your OWN version of the repository (Not Lambda's by mistake!)
 - [X] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly
-- [ ] Push commits: git push origin `<firstName-lastName>`
+- [X] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly
+- [X] Push commits: git push origin `<firstName-lastName>`
 
 ### Task 2:  Minimum Viable Product
 
@@ -77,8 +77,8 @@ Your finished project must include all of the following requirements:
 
 * [X] Build the HTML and CSS to create the missing navigation and header
 * [X] Link the `About` navigation item to an about.html page (you'll also need to create `about.html`)
-* [ ] Make your design responsive such that it is accessible on mobile(500px)and matches the [mobile](design/Mobile.png) wireframe.
-* [ ] Add responsive breakpoints to your code by using media queries
+* [X] Make your design responsive such that it is accessible on mobile(500px)and matches the [mobile](design/Mobile.png) wireframe.
+* [X] Add responsive breakpoints to your code by using media queries
 
 You will also notice there are 10 boxes on the home page that need background colors.  Use this list below to correctly style each box:
 
@@ -101,7 +101,7 @@ After finishing your required elements, you can push your work further. These go
 
 * [ ] Make your design responsive such that it is accessible on tablet(800 px) and matches the [tablet](design/Tablet.png) wireframe.
 * [ ] Build a page of your choosing from the navigation items.  Come up with content and images that fit the theme.  
-* [ ] Introduce CSS animations to your site.
+* [X] Introduce CSS animations to your site.
 * [ ] Build a contact page and create a form with several inputs of your choosing
 
 ## Resources
@@ -116,6 +116,6 @@ After finishing your required elements, you can push your work further. These go
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
-- [ ] Add your team lead as a reviewer on the pull-request
+- [X] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
+- [X] Add your team lead as a reviewer on the pull-request
 - [ ] Your team lead will count the project as complete by merging the branch back into master
